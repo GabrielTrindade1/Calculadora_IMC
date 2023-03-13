@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="message">Ola Gabriel!</string>
+    <string name="message_classificacao">Classificação : %1$s</string>
+    <string name="message_imc">Seu Imc é:</string>
+    <string name="todo">TODO</string>
+    <string name="message_tabela">Confira a tabela abaixo:</string>
+    <string name="message_inicio">Preencha os campos para descobrir seu indice de massa corporal.</string>
+    <string name="message_peso">Digite seu peso aqui</string>
+    <string name="message_altura">Digite sua altura aqui</string>
+    <string name="message_button">Calcular</string>
+</resources>
